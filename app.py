@@ -15,7 +15,7 @@ def load_model():
 model = load_model()
 
 # Ajusta estas clases según tu modelo de Teachable Machine
-CLASS_NAMES = ["Clase 1", "Clase 2", "Clase 3"]
+CLASS_NAMES = ["vaca", "bartolito", "percheron"]
 
 st.title("🎥 Clasificación en vivo con Teachable Machine")
 
